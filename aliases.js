@@ -1,0 +1,11 @@
+var ALIASES = {};
+ALIASES["aho_corasick"] = {};
+ALIASES["lazy_static"] = {};
+ALIASES["memchr"] = {};
+ALIASES["regex"] = {};
+ALIASES["regex_syntax"] = {};
+ALIASES["stfu8"] = {};
+ALIASES["thread_local"] = {};
+ALIASES["unicode_segmentation"] = {};
+ALIASES["unidecode"] = {};
+ALIASES["voca_rs"] = {};
